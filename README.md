@@ -33,15 +33,60 @@
 * Java
 * C++
 
-### 📊 Data Science & Analytics
+### 📊 Data Analytics & 
 
-* Python
-* SQL
+* SQL (MySQL)
+* Power BI
+* Tableau
+* Microsoft Excel
+* power Query
+* DAX
 * Statistics
-* Data Analysis
-* Exploratory Data Analysis
-* Machine Learning
-* Deep Learning
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Dashboard Devlopment
+* Data Visualization 
+
+### 🤖 Machine Learning
+* Supervised Learning
+* Unsupervised Learning
+* Linear Regression
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* K-Nearest Neighbors (KNN)
+* Support Vector Machine (SVM)
+* K-Means Clustering
+* Principle Component Analysis (PCA)
+* Feature Engineering
+* Model Evaluation
+* Hyperparameter Tuning
+* Scikit-Learn
+
+
+### 🧠 Deep Learning
+
+* TensorFlow
+* Artificial Neural Networks (ANN)
+* Deep Learning Fundamentals
+
+
+### 🐍 Python Libraries
+* Pandas
+*  NumPy
+* Matplotlib
+* Seaborn
+* Plotly
+* Scikit-Learn
+* TensorFlow
+
+  
+### 🛠 Development Tools
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+* Google Colab
 
 ### 📈 Data Visualization
 
