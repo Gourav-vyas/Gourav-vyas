@@ -2,6 +2,13 @@
 
 ### 🚀 Data Science | Machine Learning | Cloud & DevOps | Java
 
+<h2 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+Science+%26+Machine+Learning;Deep+Learning+%26+Neural+Networks;AWS+Cloud+%26+DevOps;Java+Developer"
+    alt="Skills Typing Animation"
+  />
+</h2>
+
 ---
 
 ## 👨‍💻 About Me
